@@ -78,9 +78,9 @@ Je considère que la sécurité n'est pas une fonctionnalité que l'on ajoute, m
 
 <div align="center">
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&locale=fr)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Joseph2352&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&locale=fr)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&locale=fr)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseh2352&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&locale=fr)
 
 </div>
 
