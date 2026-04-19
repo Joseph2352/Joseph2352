@@ -2,9 +2,9 @@
 
 # Joseph Mamy
 
-<h2>Ingénieur en Cybersécurité · Architecte Backend · Développeur Systèmes</h2>
+**Ingénieur en Cybersécurité · Architecte Backend · Développeur Systèmes**
 
-<h3><em>Concevoir des systèmes sécurisés et évolutifs, à la croisée de la sécurité offensive et de l'ingénierie logicielle.</em></h3>
+*Concevoir des systèmes sécurisés et évolutifs, à la croisée de la sécurité offensive et de l'ingénierie logicielle.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portofolio-actuel-dynamique.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajoseph.08754896@gmail.com)
@@ -16,9 +16,9 @@
 
 # À propos
 
-<h3>Je suis un ingénieur backend et praticien en cybersécurité, spécialisé dans la conception de systèmes à la fois résilients et performants. Mon travail couvre l'architecture d'API sécurisées, le développement d'outils de sécurité offensive et la conception de plateformes full-stack — avec une attention particulière portée à la qualité du code, à la modélisation des menaces et aux architectures évolutives.</h3>
+Je suis un ingénieur backend et praticien en cybersécurité, spécialisé dans la conception de systèmes à la fois résilients et performants. Mon travail couvre l'architecture d'API sécurisées, le développement d'outils de sécurité offensive et la conception de plateformes full-stack — avec une attention particulière portée à la qualité du code, à la modélisation des menaces et aux architectures évolutives.
 
-<h3>Je considère que la sécurité n'est pas une fonctionnalité que l'on ajoute, mais une discipline que l'on intègre dès la première ligne de code.</h3>
+Je considère que la sécurité n'est pas une fonctionnalité que l'on ajoute, mais une discipline que l'on intègre dès la première ligne de code.
 
 ---
 
@@ -64,21 +64,17 @@
 
 # Domaines d'expertise
 
-<h3>
-<ul>
-<li><b>Architecture Backend Sécurisée</b> — Conception d'API REST, systèmes d'authentification, contrôle d'accès basé sur les rôles</li>
-<li><b>Sécurité Offensive</b> — Développement d'outils de tests d'intrusion, reconnaissance réseau, recherche de vulnérabilités</li>
-<li><b>Ingénierie des Données</b> — Modélisation relationnelle (MERISE, SQL), stratégies NoSQL, optimisation des requêtes</li>
-<li><b>DevOps & Conteneurisation</b> — Docker, Kubernetes, administration de serveurs Linux</li>
-<li><b>Développement Mobile</b> — Applications Android natives avec Kotlin</li>
-</ul>
-</h3>
+- **Architecture Backend Sécurisée** — Conception d'API REST, systèmes d'authentification, contrôle d'accès basé sur les rôles
+- **Sécurité Offensive** — Développement d'outils de tests d'intrusion, reconnaissance réseau, recherche de vulnérabilités
+- **Ingénierie des Données** — Modélisation relationnelle (MERISE, SQL), stratégies NoSQL, optimisation des requêtes
+- **DevOps & Conteneurisation** — Docker, Kubernetes, administration de serveurs Linux
+- **Développement Mobile** — Applications Android natives avec Kotlin
 
 ---
 
 
 <div align="center">
 
-<h2><em>« Écris du code sécurisé par conception, non par hasard. »</em></h2>
+*« Écris du code sécurisé par conception, non par hasard. »*
 
 </div>
