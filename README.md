@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portofolio-actuel-dynamique.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajoseph.08754896@gmail.com)
-[![Facebook](https://img.shields.io/badge/Articles_Tech-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100066393834614)
+[![Facebook](https://img.shields.io/badge/Articles_Tech-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/joseph.mamy.986)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/kourouma)
 
 </div>
@@ -59,7 +59,6 @@ Je considère que la sécurité n'est pas une fonctionnalité que l'on ajoute, m
 |---|---|---|
 | **AgreLink** | Place de marché B2B connectant tous les acteurs du secteur de la construction en Afrique de l'Ouest | 🔨 En développement |
 | **AgriConnect** | Plateforme de mise en relation entre agriculteurs et consommateurs pour fluidifier les chaînes d'approvisionnement agricoles | 🌱 En développement |
-| **E-Commerce Zaly** | Solution e-commerce sécurisée et adaptée au marché guinéen | 🔨 En développement |
 | **Modules de Pentesting** | Développement d'outils de sécurité offensive modulaires pour des audits professionnels | ⚙️ Recherche en cours |
 
 ---
@@ -74,17 +73,6 @@ Je considère que la sécurité n'est pas une fonctionnalité que l'on ajoute, m
 
 ---
 
-## Statistiques GitHub
-
-<div align="center">
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Joseph2352&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&locale=fr)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseh2352&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&locale=fr)
-
-</div>
-
----
 
 <div align="center">
 
