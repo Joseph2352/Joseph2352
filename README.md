@@ -2,9 +2,9 @@
 
 # Joseph Mamy
 
-**Ingénieur en Cybersécurité · Architecte Backend · Développeur Systèmes**
+<h2>Ingénieur en Cybersécurité · Architecte Backend · Développeur Systèmes</h2>
 
-*Concevoir des systèmes sécurisés et évolutifs, à la croisée de la sécurité offensive et de l'ingénierie logicielle.*
+<h3><em>Concevoir des systèmes sécurisés et évolutifs, à la croisée de la sécurité offensive et de l'ingénierie logicielle.</em></h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portofolio-actuel-dynamique.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajoseph.08754896@gmail.com)
@@ -14,17 +14,17 @@
 
 ---
 
-## À propos
+# À propos
 
-Je suis un ingénieur backend et praticien en cybersécurité, spécialisé dans la conception de systèmes à la fois résilients et performants. Mon travail couvre l'architecture d'API sécurisées, le développement d'outils de sécurité offensive et la conception de plateformes full-stack — avec une attention particulière portée à la qualité du code, à la modélisation des menaces et aux architectures évolutives.
+<h3>Je suis un ingénieur backend et praticien en cybersécurité, spécialisé dans la conception de systèmes à la fois résilients et performants. Mon travail couvre l'architecture d'API sécurisées, le développement d'outils de sécurité offensive et la conception de plateformes full-stack — avec une attention particulière portée à la qualité du code, à la modélisation des menaces et aux architectures évolutives.</h3>
 
-Je considère que la sécurité n'est pas une fonctionnalité que l'on ajoute, mais une discipline que l'on intègre dès la première ligne de code.
+<h3>Je considère que la sécurité n'est pas une fonctionnalité que l'on ajoute, mais une discipline que l'on intègre dès la première ligne de code.</h3>
 
 ---
 
-## Stack Technique
+# Stack Technique
 
-### Langages
+## Langages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,7 +32,7 @@ Je considère que la sécurité n'est pas une fonctionnalité que l'on ajoute, m
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Frameworks & Runtimes
+## Frameworks & Runtimes
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -41,7 +41,7 @@ Je considère que la sécurité n'est pas une fonctionnalité que l'on ajoute, m
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Données & Infrastructure
+## Données & Infrastructure
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -52,7 +52,7 @@ Je considère que la sécurité n'est pas une fonctionnalité que l'on ajoute, m
 
 ---
 
-## Projets en cours
+# Projets en cours
 
 | Projet | Description | Statut |
 |---|---|---|
@@ -62,19 +62,23 @@ Je considère que la sécurité n'est pas une fonctionnalité que l'on ajoute, m
 
 ---
 
-## Domaines d'expertise
+# Domaines d'expertise
 
-- **Architecture Backend Sécurisée** — Conception d'API REST, systèmes d'authentification, contrôle d'accès basé sur les rôles
-- **Sécurité Offensive** — Développement d'outils de tests d'intrusion, reconnaissance réseau, recherche de vulnérabilités
-- **Ingénierie des Données** — Modélisation relationnelle (MERISE, SQL), stratégies NoSQL, optimisation des requêtes
-- **DevOps & Conteneurisation** — Docker, Kubernetes, administration de serveurs Linux
-- **Développement Mobile** — Applications Android natives avec Kotlin
+<h3>
+<ul>
+<li><b>Architecture Backend Sécurisée</b> — Conception d'API REST, systèmes d'authentification, contrôle d'accès basé sur les rôles</li>
+<li><b>Sécurité Offensive</b> — Développement d'outils de tests d'intrusion, reconnaissance réseau, recherche de vulnérabilités</li>
+<li><b>Ingénierie des Données</b> — Modélisation relationnelle (MERISE, SQL), stratégies NoSQL, optimisation des requêtes</li>
+<li><b>DevOps & Conteneurisation</b> — Docker, Kubernetes, administration de serveurs Linux</li>
+<li><b>Développement Mobile</b> — Applications Android natives avec Kotlin</li>
+</ul>
+</h3>
 
 ---
 
 
 <div align="center">
 
-*« Écris du code sécurisé par conception, non par hasard. »*
+<h2><em>« Écris du code sécurisé par conception, non par hasard. »</em></h2>
 
 </div>
