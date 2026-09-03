@@ -52,16 +52,6 @@ Je considère que la sécurité n'est pas une fonctionnalité que l'on ajoute, m
 
 ---
 
-# Projets en cours
-
-| Projet | Description | Statut |
-|---|---|---|
-| **AgreLink** | Place de marché B2B connectant tous les acteurs du secteur de la construction en Afrique de l'Ouest | 🔨 En développement |
-| **AgriConnect** | Plateforme de mise en relation entre agriculteurs et consommateurs pour fluidifier les chaînes d'approvisionnement agricoles | 🌱 En développement |
-| **Modules de Pentesting** | Développement d'outils de sécurité offensive modulaires pour des audits professionnels | ⚙️ Recherche en cours |
-
----
-
 # Domaines d'expertise
 
 - **Architecture Backend Sécurisée** — Conception d'API REST, systèmes d'authentification, contrôle d'accès basé sur les rôles
